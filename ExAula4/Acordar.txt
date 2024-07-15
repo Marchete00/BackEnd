@@ -1,0 +1,11 @@
+Despertador toca
+Acordo
+Abro os olhos
+Olho para o relógio
+Verifico se o despertador tocou no horário definido
+Senão, ajusto o relógio e volto a dormir
+Se sim, levanto da cama
+Fico de pé
+Ando até a porta do quarto
+Abro a porta do quarto girando a maçaneta
+...
