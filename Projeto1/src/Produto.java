@@ -1,6 +1,4 @@
 public class Produto {
-
-    public static void main(String args[]) {
-        System.out.println("Olá Mundo");
-    }
+    private int codigo;
+    private String nome;
 }
